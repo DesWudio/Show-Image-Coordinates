@@ -4,7 +4,7 @@
 
 只需要在想得到坐标值的位置按下鼠标右键即可得到该点的像素坐标值；
 
-这个工具使用python3.7编写，使用Tkinter选取图像路径，OpenCV实现鼠标事件和界面显示。Show-Image-Coordinates.py为主程序，Show-Image-Coordinates.exe为封装好的可执行文件。
+这个工具使用python3.7编写，使用Tkinter选取图像路径，OpenCV实现鼠标事件和界面显示。
 
 # Show-Image-Coordinates
 
@@ -12,4 +12,4 @@ In some works I need to know the pixel coordinates value of a certain position i
 
 You can get the coordinates of the pixel by clicking the right mouse button at anywhere you want.
 
-This widget written in python 3.7. Tkinter is used for image path selection and OpenCV is used for implementing mouse events and interface. The main program is Show-Image-Coordinates.py, and Show-Image-Coordinates.exe is a wrapped executable file.
+This widget written in python 3.7. Tkinter is used for image path selection and OpenCV is used for implementing mouse events and interface.
